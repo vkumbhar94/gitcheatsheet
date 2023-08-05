@@ -1,2 +1,4 @@
 # Git Cheatsheet
 
+
+## Autosquash
